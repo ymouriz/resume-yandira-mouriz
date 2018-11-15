@@ -12,6 +12,7 @@ body {
     padding-left: 17rem;
   }
 }
+/* Typography */
 
 h1,
 h2,
@@ -71,7 +72,7 @@ p.lead {
   background-color: #BD5D38;
 }
 
-
+/* Menu */
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;

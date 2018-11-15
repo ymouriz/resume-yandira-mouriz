@@ -59,7 +59,7 @@ function validateForm(form) {
 	}
 
 	// No validation errors.
-	alert('Submitted successfully');
+	$( "form" ).replaceWith("Thank you for your message!");
 
 
 	return false;
@@ -90,16 +90,3 @@ function validateRequired(input) {
 		$(input).removeClass('valid');
 	}
 }
-
-}
-
-/*
-
-function submitForm () {
-  $('form[name="userRegForm"]').submit();
-	  $('input[type="text"]).val('');
-}
-
-
-alert("Thank you for your message");
-*/

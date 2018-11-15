@@ -2,7 +2,8 @@
 
 ## Description
 ```
-A brief description of your project
+A simple and small Resume web site containing some sections to feature work experience, education, skills, and a contact me form.
+Responsive HTML web site created with Bootstrap and jQuery.
 
 ```
 
@@ -10,7 +11,7 @@ A brief description of your project
 
 ## Custom CSS Classes
 ```
-The class(es) I created are:
+Some of the class(es) I created are:
 
 1. class name ex( .main-info-section )
 .. what class does, ex( adds padding & changes background color of .main-info-section )
