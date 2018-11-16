@@ -7,13 +7,6 @@ and a contact me form.
 Responsive HTML web site easy to navigate through all sections.
 
 ```
-## Preview
- ```
-You can access the site by going to the following link
-[https://ymouriz.github.io/resume-yandira-mouriz/index.html] (https://ymouriz.github.io/resume-yandira-mouriz/index.html)
-
- ```
-
 ## Built with
  ```
  HTML5
@@ -50,6 +43,6 @@ Some javascript functions used are:
 
 function validateForm(form)
 function validateEmail(input)
-function validateRequired(input) {
+function validateRequired(input)
 
 ```
