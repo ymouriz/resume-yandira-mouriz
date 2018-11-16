@@ -1,22 +1,37 @@
-# CodeLou_FrontEnd
+# Yandira Mouriz Coca's Resume
 
 ## Description
 ```
-A simple and small Resume web site containing some sections to feature work experience, education, skills, and a contact me form.
-Responsive HTML web site created with Bootstrap and jQuery.
+A simple Resume web site containing some sections to feature work experience, education, skills, and a contact me form.
+Responsive HTML web site easy to navigate through all sections. .
 
 ```
+## Preview
+ ```
+You can access the site by going to the following link
+https://ymouriz.github.io/resume-yandira-mouriz/index.html
+ ```
 
+##Built With
+ ```
+ HTML5
+ Javascript
+ CSS
+ Bootstrap
+ jQuery
+
+ ```
 
 
 ## Custom CSS Classes
 ```
-Some of the class(es) I created are:
+Different CSS classes were created  to detail the presentation of the web page's markup language (HTML) such as colors, fonts, and layout.
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
-
-2.
+Examples
+.subheading
+.social-icons
+.text-primary
+.container
 
 ```
 
@@ -24,9 +39,13 @@ Some of the class(es) I created are:
 
 ## Custom JavaScript Functions
 ```
-The javascript functions I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
+JavaScript was use to provide more User Interaction and  validate user input.  Being client-side, JavaScript is very fast because any code functions can be run immediately instead of having to contact the server and wait for an answer.
+
+Some javascript functions used are:
+
+function validateForm(form)
+function validateEmail(input)
+function validateRequired(input) {
 
 ```
